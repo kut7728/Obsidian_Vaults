@@ -1,0 +1,1 @@
+https://techblog.lycorp.co.jp/ko/flutter-clean-architecture
