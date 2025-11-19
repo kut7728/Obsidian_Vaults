@@ -33,13 +33,5 @@
     "lucideIconPackType": "native",
     "debugMode": false,
     "useInternalPlugins": false
-  },
-  "React": "SfReact",
-  "Portfolio": "SfList",
-  "Flutter": "SfFlutter",
-  "Attachments": "SfImages",
-  "iOS": "SfApple",
-  "CS": "SfComputer",
-  "JavaScript": "SfSquareJs",
-  "Architecture": "LiFolderTree"
+  }
 }

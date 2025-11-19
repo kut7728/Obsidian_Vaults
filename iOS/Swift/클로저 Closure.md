@@ -205,7 +205,7 @@ doSomething {
 > 
 > → 함수의 실행 흐름을 탈출하지 못함. 즉, 함수 종료 전에 무조건 실행 되어야 한다.
 > 
-> ![[Attachments/img1.daumcdn 6.png|img1.daumcdn 6.png]]
+> ![[img1.daumcdn 6.png|img1.daumcdn 6.png]]
 
   
 

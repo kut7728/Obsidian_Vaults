@@ -102,7 +102,7 @@
 
 # 시스템 버스
 
-![[Attachments/img1.daumcdn 2.png|img1.daumcdn 2.png]]
+![[img1.daumcdn 2.png|img1.daumcdn 2.png]]
 
 - 컴퓨터의 구성요소(CPU, 메모리, 입출력장치)를 서로 연결하고 데이터 전달을 위한 경로
 
