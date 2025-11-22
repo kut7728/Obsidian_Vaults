@@ -1,7 +1,7 @@
 {
   "alwaysUpdateLinks": true,
   "promptDelete": false,
-  "strictLineBreaks": false,
+  "strictLineBreaks": true,
   "showLineNumber": true,
   "spellcheck": false,
   "attachmentFolderPath": "00.Attachments"
