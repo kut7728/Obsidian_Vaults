@@ -7,7 +7,7 @@
 > Ref : Provider 내부에서 다른 provider와 소통할 때 사용
 > WidgetRef : Widget 내부에서 provider와 소통할 때 사용
 
-# Ref
+## Ref
 - Provider가 생성되거나 동작할 때 전달되는 객체
 - 사용위치:
 	- Provider 정의부
@@ -34,7 +34,7 @@ final weatherProvider = Provider((ref) {
 ```
 
 
-# WidgetRef
+## WidgetRef
 - Flutter의 위젯트리 속에서 provider에 접근할 수 있도록 해주는 객체
 - 사용 위치 : 
 	- consumerWidget의 build 메서드 속
@@ -66,4 +66,5 @@ class WeatherScreen extends ConsumerWidget {
   }
 }
 ```
+
 
