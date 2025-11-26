@@ -1,3 +1,6 @@
+
+<br>
+
 # 개요
 - provider를 사용하기 위해 필요한 ref
 - 하지만 가끔 어디서는 Ref ref, 어디서는 WidgetRef ref 인 경우가 있다
@@ -6,8 +9,6 @@
 > [!info] 요약
 > Ref : Provider 내부에서 다른 provider와 소통할 때 사용
 > WidgetRef : Widget 내부에서 provider와 소통할 때 사용
-
-
 
 ## Ref
 - Provider가 생성되거나 동작할 때 전달되는 객체
@@ -69,6 +70,7 @@ class WeatherScreen extends ConsumerWidget {
 }
 ```
 
+<br>
 
 # 두군데에서 다 쓰고 싶으면요?
 - "이 로직은 위젯의 버튼을 눌렀을 때도 실행돼야 하고, 다른 프로바이더가 상태를 갱신할 때도 실행돼야 하는데?" 싶은 경우면?
