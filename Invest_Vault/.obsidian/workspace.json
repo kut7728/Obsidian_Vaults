@@ -35,7 +35,8 @@
               "title": "일본 신용카드"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -200,10 +201,10 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "92e1d45ccd06d7f0",
+  "active": "2bfd905227d4245f",
   "lastOpenFiles": [
-    "일본 신용카드.md",
     "페이페이 경제권.md",
+    "일본 신용카드.md",
     "99.일본생활/모바일 요금제.md",
     "99.일본생활",
     "02.상품종류/ETF.md",
