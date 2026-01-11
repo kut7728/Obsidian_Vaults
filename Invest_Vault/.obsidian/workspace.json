@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "포트폴리오.md",
-                "mode": "preview",
+                "file": "99.일본생활/모바일 요금제.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "포트폴리오"
+              "title": "모바일 요금제"
             }
           }
         ]
@@ -185,16 +185,16 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "96eb5386b3b13509",
+  "active": "92e1d45ccd06d7f0",
   "lastOpenFiles": [
     "99.일본생활/일본 신용카드.md",
     "99.일본생활/페이페이 경제권.md",
+    "포트폴리오.md",
     "99.일본생활/모바일 요금제.md",
     "99.일본생활",
     "02.상품종류/ETF.md",
     "01.계좌종류/연금저축계좌.md",
     "01.계좌종류/ISA.md",
-    "포트폴리오.md",
     "02.상품종류",
     "01.계좌종류",
     "01.재테크 공부",
