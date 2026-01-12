@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02.상품종류/03.배당주/03.배당주.md",
+                "file": "02.상품종류/02.ETF/02.ETF.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03.배당주"
+              "title": "02.ETF"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3c4e1c9143af260c",
@@ -187,8 +188,8 @@
   },
   "active": "e3987b0c59de4f39",
   "lastOpenFiles": [
-    "02.상품종류/리츠.md",
     "02.상품종류/03.배당주/03.배당주.md",
+    "02.상품종류/리츠.md",
     "02.상품종류/03.배당주",
     "01.계좌종류/02.ISA.md",
     "02.상품종류/02.ETF/02.ETF.md",
