@@ -4,63 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5e18a790a8ca258f",
+        "id": "66dc8b40ac2a0776",
         "type": "tabs",
         "children": [
           {
-            "id": "92e1d45ccd06d7f0",
+            "id": "e3987b0c59de4f39",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02.상품종류/ETF/S&P 500 ETF.md",
+                "file": "02.상품종류/03.배당주/03.배당주.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "S&P 500 ETF"
-            }
-          },
-          {
-            "id": "317e438a1821cadc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02.상품종류/ETF/국장 ETF 선택방법.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "국장 ETF 선택방법"
-            }
-          },
-          {
-            "id": "c8115d353bef0e17",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.계좌종류/연금저축계좌.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "연금저축계좌"
-            }
-          },
-          {
-            "id": "cce26fdb57b7d724",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02.상품종류/ETF/월배당 ETF.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "월배당 ETF"
+              "title": "03.배당주"
             }
           }
         ]
@@ -120,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3c4e1c9143af260c",
@@ -228,24 +185,30 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "92e1d45ccd06d7f0",
+  "active": "e3987b0c59de4f39",
   "lastOpenFiles": [
+    "02.상품종류/리츠.md",
+    "02.상품종류/03.배당주/03.배당주.md",
+    "02.상품종류/03.배당주",
+    "01.계좌종류/02.ISA.md",
+    "02.상품종류/02.ETF/02.ETF.md",
+    "00.경제공부/금리.md",
+    "02.상품종류/01.채권",
+    "00.경제공부",
+    "02.상품종류/02.ETF/월배당 ETF.md",
+    "02.상품종류/02.ETF/S&P 500 ETF.md",
     "03.한국상황",
-    "02.상품종류/ETF/국장 ETF 선택방법.md",
-    "02.상품종류/ETF/S&P 500 ETF.md",
-    "02.상품종류/ETF/ETF.md",
-    "01.계좌종류/연금저축계좌.md",
-    "02.상품종류/ETF/월배당 ETF.md",
+    "02.상품종류/02.ETF/국장 ETF 선택방법.md",
+    "01.계좌종류/01.연금저축계좌.md",
     "콜옵션.md",
-    "02.상품종류/ETF/커버드콜 ETF.md",
-    "02.상품종류/ETF/지수 ETF.md",
+    "02.상품종류/02.ETF/커버드콜 ETF.md",
+    "02.상품종류/02.ETF/지수 ETF.md",
     "02.상품종류/포트폴리오.md",
-    "02.상품종류/ETF",
+    "02.상품종류/02.ETF",
     "99.일본생활/모바일 요금제.md",
     "99.일본생활/일본 신용카드.md",
     "99.일본생활/페이페이 경제권.md",
     "99.일본생활",
-    "01.계좌종류/ISA.md",
     "02.상품종류",
     "01.계좌종류",
     "01.재테크 공부",
