@@ -9,23 +9,7 @@
   "autoCreateForAttachmentFolder": false,
   "autoCreateForFiles": false,
   "enableCollapsing": false,
-  "excludeFolders": [
-    {
-      "type": "folder",
-      "id": "3b051f6c-ff83-4273-a655-11a0e5428e6c",
-      "path": "02.상품종류/ETF",
-      "subFolders": true,
-      "disableSync": true,
-      "disableAutoCreate": true,
-      "disableFolderNote": false,
-      "enableCollapsing": false,
-      "position": 0,
-      "excludeFromFolderOverview": false,
-      "string": "",
-      "hideInSettings": false,
-      "showFolderNote": false
-    }
-  ],
+  "excludeFolders": [],
   "whitelistFolders": [],
   "showDeleteConfirmation": false,
   "underlineFolder": true,
