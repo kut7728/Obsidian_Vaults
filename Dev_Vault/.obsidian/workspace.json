@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6ef4d4fc7ed77720",
+        "id": "8e27a198af2b1320",
         "type": "tabs",
         "children": [
           {
-            "id": "721b1b6a28cc79e6",
+            "id": "e400fd5c61c88b3c",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
+              "icon": "lucide-file",
+              "title": "새 탭"
             }
           }
         ]
@@ -178,6 +178,6 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "721b1b6a28cc79e6",
+  "active": "e400fd5c61c88b3c",
   "lastOpenFiles": []
 }

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "66dc8b40ac2a0776",
+        "id": "10e19b0d20a31725",
         "type": "tabs",
         "children": [
           {
-            "id": "e3987b0c59de4f39",
+            "id": "21990b73d059d689",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3c4e1c9143af260c",
@@ -186,13 +185,13 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "e3987b0c59de4f39",
+  "active": "21990b73d059d689",
   "lastOpenFiles": [
+    "02.상품종류/02.ETF/02.ETF.md",
     "02.상품종류/03.배당주/03.배당주.md",
     "02.상품종류/리츠.md",
     "02.상품종류/03.배당주",
     "01.계좌종류/02.ISA.md",
-    "02.상품종류/02.ETF/02.ETF.md",
     "00.경제공부/금리.md",
     "02.상품종류/01.채권",
     "00.경제공부",
