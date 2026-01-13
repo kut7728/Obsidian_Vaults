@@ -11,10 +11,14 @@
             "id": "e400fd5c61c88b3c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "ossu - location permission - podfile.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "ossu - location permission - podfile"
             }
           }
         ]
@@ -179,5 +183,7 @@
     }
   },
   "active": "e400fd5c61c88b3c",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "ossu - location permission - podfile.md"
+  ]
 }
