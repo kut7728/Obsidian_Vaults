@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c39b403bcec90b85",
+        "id": "8299b10f4e507aa0",
         "type": "tabs",
         "children": [
           {
-            "id": "28175071baf1ca5b",
+            "id": "1aa3bc7cb2245bb5",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -181,8 +181,11 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "28175071baf1ca5b",
+  "active": "1aa3bc7cb2245bb5",
   "lastOpenFiles": [
+    "02.상품종류/02.ETF/커버드콜 ETF.md",
+    "02.상품종류/02.ETF/월배당 ETF.md",
+    "02.상품종류/02.ETF/지수 ETF.md",
     "02.상품종류/02.ETF/02.ETF.md",
     "02.상품종류/03.배당주/03.배당주.md",
     "02.상품종류/리츠.md",
@@ -191,14 +194,11 @@
     "00.경제공부/금리.md",
     "02.상품종류/01.채권",
     "00.경제공부",
-    "02.상품종류/02.ETF/월배당 ETF.md",
     "02.상품종류/02.ETF/S&P 500 ETF.md",
     "03.한국상황",
     "02.상품종류/02.ETF/국장 ETF 선택방법.md",
     "01.계좌종류/01.연금저축계좌.md",
     "콜옵션.md",
-    "02.상품종류/02.ETF/커버드콜 ETF.md",
-    "02.상품종류/02.ETF/지수 ETF.md",
     "02.상품종류/포트폴리오.md",
     "02.상품종류/02.ETF",
     "99.일본생활/모바일 요금제.md",
