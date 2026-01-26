@@ -48,9 +48,21 @@
               "icon": "lucide-file",
               "title": "git worktree"
             }
+          },
+          {
+            "id": "09679b6fe6bd1180",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "릴리즈 노트 1.11.5"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -211,7 +223,7 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "66b2554364259e05",
+  "active": "09679b6fe6bd1180",
   "lastOpenFiles": [
     "cleanArchitecture - service.md",
     "08.AI/git worktree.md",
